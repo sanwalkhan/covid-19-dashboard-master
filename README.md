@@ -60,7 +60,7 @@ You can get in touch with me on my LinkedIn Profile:
 
 #### Sanwal Khan
 
-[![LinkedIn Link](https://img.shields.io/badge/Connect-saadhaxxan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/thissanwal)
+[![LinkedIn Link](https://img.shields.io/badge/Connect-sanwalkhan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/thissanwal)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
