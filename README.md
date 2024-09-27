@@ -68,6 +68,6 @@ If you find any bug in the code or have any improvements in mind then feel free 
 
 ## Issues
 
-[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/AIPakistan.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/sanwalkhan/covid-19-dashboard-master/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/sanwalkhan/AIPakistan.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/sanwalkhan/covid-19-dashboard-master/issues)
 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
